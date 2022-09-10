@@ -1,0 +1,13 @@
+body {
+  background: rgb(245, 245, 150);
+  text-align: center;
+}
+
+.menu a {
+  justify-content: center;
+  margin: 20px;
+  color: brown;
+}
+img {
+  margin: 20px;
+}
